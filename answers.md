@@ -13,4 +13,4 @@ While using flexbox, what axis does the following property work on: align-items:
 Answer: Cross-Axis
 
 Explain why git is valuable to a team of developers.
-Answer: Git is a Distributed Version Control tool that allows multiple users/developers to write codes, edit and make commits to the server repository (GitHub). Any programmer can access and edit files of other developers working in the project. You can also know what changes have be made to the source code and by whom. It helps developers to easily collobrate on large projects while maintaing and versioning the code.
+Answer: Git is a Distributed Version Control tool that allows multiple users/developers to write codes, edit and make commits to the server repository (GitHub). Any programmer can access and edit files of other developers working in the project. You can also know what changes have be made to the source code and by whom. It helps developers to easily collobrate on large projects while maintaing and versioning the code. Its a great tool adding great value to development teams.
